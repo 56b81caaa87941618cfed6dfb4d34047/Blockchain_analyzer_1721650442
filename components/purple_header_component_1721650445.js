@@ -7,7 +7,17 @@
 Vue.component("purple_header_component_1721650445", {
     template: `
     <header class="w-full z-30" id="header-section-container">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white flex">
+            <div class="w-64 bg-slate-800 text-white p-4">
+                <nav>
+                    <ul>
+                        <li><a href="#" class="block py-2 hover:text-purple-500">Home</a></li>
+                        <li><a href="#" class="block py-2 hover:text-purple-500">About</a></li>
+                        <li><a href="#" class="block py-2 hover:text-purple-500">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="flex-1">
             <div class="flex items-center justify-between h-16 md:h-20">
     
                 <div id="site-branding" class="flex-1"><a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip"><img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar"></a></div>
@@ -52,6 +62,8 @@ Vue.component("purple_header_component_1721650445", {
     
                 </div>
     
+            </div>
+        </div>
             </div>
         </div>
     </header>`,
