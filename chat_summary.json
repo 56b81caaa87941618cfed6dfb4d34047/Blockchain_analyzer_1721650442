@@ -30,5 +30,11 @@
         "content": "Great, I'll add a sidebar with those fields.",
         "timestamp": "22072024121715",
         "message_id": "guest22072024121713"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar here with the nav links home, about and contact",
+        "timestamp": "22072024121824",
+        "message_id": "guest22072024121824"
     }
 ]
