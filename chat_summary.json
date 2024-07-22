@@ -42,5 +42,11 @@
         "content": "Thanks for your input! Working on adding a sidebar with nav links home, about and contact now.",
         "timestamp": "22072024121825",
         "message_id": "guest22072024121824"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "timestamp": "22072024122037",
+        "message_id": "guest22072024122037"
     }
 ]
