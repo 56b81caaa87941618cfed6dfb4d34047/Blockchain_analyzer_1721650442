@@ -54,5 +54,11 @@
         "content": "Understood, will add a sidebar with home, about and contact fields.",
         "timestamp": "22072024122039",
         "message_id": "guest22072024122037"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be fixed or collapsible?\", \"option1\": \"Fixed sidebar\", \"option2\": \"Collapsible sidebar\"}, {\"question 2\": \"Should the sidebar's design theme align with a light mode or dark mode preference, or do you want it to automatically adapt based on user system settings?\", \"option1\": \"Light or dark mode fixed theme\", \"option2\": \"Automatically adapt to user system settings\"}], \"input_token_count\": 383, \"output_token_count\": 104, \"time_taken\": \"0:00:03.313811\"}",
+        "timestamp": "22072024122043",
+        "message_id": "guest22072024122037"
     }
 ]
