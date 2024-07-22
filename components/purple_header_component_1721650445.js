@@ -7,13 +7,13 @@
 Vue.component("purple_header_component_1721650445", {
     template: `
     <header class="w-full z-30" id="header-section-container">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white flex">
-            <div class="w-64 bg-slate-800 text-white p-4">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-gray-900 flex">
+            <div class="w-64 bg-gray-800 text-white p-4">
                 <nav>
                     <ul>
-                        <li><a href="#" class="block py-2 hover:text-purple-500">Home</a></li>
-                        <li><a href="#" class="block py-2 hover:text-purple-500">About</a></li>
-                        <li><a href="#" class="block py-2 hover:text-purple-500">Contact</a></li>
+                        <li><a href="#" class="block py-2 text-gray-300 hover:text-purple-400 transition duration-300">Home</a></li>
+                        <li><a href="#" class="block py-2 text-gray-300 hover:text-purple-400 transition duration-300">About</a></li>
+                        <li><a href="#" class="block py-2 text-gray-300 hover:text-purple-400 transition duration-300">Contact</a></li>
                     </ul>
                 </nav>
             </div>
